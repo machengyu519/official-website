@@ -3,16 +3,14 @@
     <div class="logo">
       <img src="@/assets/img/logo_white.png" alt="logo图">
     </div>
-    <p class="title">公司企业网站模板</p>
+    <p class="title">尤里奇科技</p>
     <p class="address_tel_fax">
-      <span>地址：公司地址</span>
       <span>Tel：888-888-888</span>
     </p>
     <p class="email_wx">
-      <span>邮箱：xxx@163.com</span>
-      <span>微信号：xxx</span>
+      <span>邮箱：jobjoybot@gmail.com</span>
     </p>
-    <p class="copy">Copyright &copy; 2018 - {{ new Date().getFullYear() }} 公司名称</p>
+    <p class="copy">Copyright &copy; 2018 - {{ new Date().getFullYear() }} 尤里奇科技</p>
   </div>
 </template>
 <script>
