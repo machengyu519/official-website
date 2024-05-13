@@ -146,7 +146,7 @@ export default {
           img: require("@/assets/img/banner1.png"),
           path: "",
           title: 'Elasticsearch专家',
-          content: "集群部署： 我们有Elasticsearch认证工程师，拥有丰富的经验，可以帮助您设计和部署Elasticsearch集群，确保其高可用性和性能稳定性。</br>索引设计： 我们可以根据您的业务需求设计和优化Elasticsearch索引，以实现高效的数据检索和分析。\n集群调优： 我们可以对您现有的Elasticsearch集群进行性能优化，包括调整硬件资源、优化查询和索引设置，以提高其性能和可靠性。\n问题咨询： 我们提供专业的咨询服务，帮助您解决Elasticsearch集群部署、索引设计和性能调优等方面的问题。",
+          content: "<p>集群部署： 我们有Elasticsearch认证工程师，拥有丰富的经验，可以帮助您设计和部署Elasticsearch集群，确保其高可用性和性能稳定性。</p><p>索引设计： 我们可以根据您的业务需求设计和优化Elasticsearch索引，以实现高效的数据检索和分析。</p>集群调优： 我们可以对您现有的Elasticsearch集群进行性能优化，包括调整硬件资源、优化查询和索引设置，以提高其性能和可靠性。</p><p>问题咨询： 我们提供专业的咨询服务，帮助您解决Elasticsearch集群部署、索引设计和性能调优等方面的问题。</p>",
         },
         {
           img: require("@/assets/img/banner2.jpg"),
