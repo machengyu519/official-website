@@ -169,32 +169,32 @@ export default {
       ],
       customerList: [
         {
-          logo: "",
+          logo: require("@/assets/img/computer.png"),
           title:
             "Elasticsearch集群使用",
           content:
             "我们对贵司提供的Elasticsearch服务印象深刻！你们的服务不仅性能出色，而且非常稳定。我们的应用程序在你们部署的Elasticsearch集群上运行得非常顺畅，没有出现任何延迟或故障。\n贵司的Elasticsearch服务是我们团队的首选！你们的服务不仅快速响应，而且稳定可靠。我们在高峰期也从未遇到过性能问题，感谢你们提供的优质服务！"
         },
         {
-          logo: "",
+          logo: require("@/assets/img/computer.png"),
           title:
             "Elasticsearch使用及性能优化",
           content:
             "感谢你们提供的卓越支持和服务！每当我们遇到问题或需要帮助时，贵司的团队总是及时响应并提供专业的解决方案。你们的技术支持团队非常热情和专业，我们感到非常满意！\n你们的团队不仅提供了出色的Elasticsearch服务，而且在整个合作过程中都表现出了极高的责任感和敬业精神。感谢您的努力和专业！"
         },
         {
-          logo: "",
+          logo: require("@/assets/img/computer.png"),
           title:
             "童装店",
           content:
             "非常感谢你们提供的服务为我们的销售额和利润都实现了显著的增长。你们的技术帮助我们更好地了解客户需求，优化库存管理和销售策略，提高了销售效率和客户满意度。我们对你们技术的应用效果感到非常满意，期待未来继续合作，共同实现更大的商业成就！"
         },
         {
-          logo: "",
+          logo: require("@/assets/img/computer.png"),
           title:
             "AI销售助手",
           content:
-            "使用我们的AI营销助手，赋能客户跟进过程，提炼客户画像。提供多方位的营销策略。智能识别销售待办，确保重要事项不错过。自动化销售流程：AI销售助理能够自动化管理销售流程，如客户线索的获取、筛选、分配，到一些合同方案，产品解决方案的起草处理。"
+            "使用我们的AI营销助手，赋能客户跟进过程，提炼客户画像。提供多方位的营销策略。智能识别销售待办，确保重要事项不错过！"
         }
       ],
       serverList: [
