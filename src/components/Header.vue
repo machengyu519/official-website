@@ -5,7 +5,6 @@
     <div class="header-top container-fuild hidden-xs">
       <div class="container">
         <div class="server pull-left">
-          <span class="glyphicon glyphicon-earphone"></span>888-888-888
           <span class="glyphicon glyphicon-envelope"></span>jobjoybot@gmail.com
           <span class="glyphicon glyphicon-time"></span>7x24小时为您服务
         </div>

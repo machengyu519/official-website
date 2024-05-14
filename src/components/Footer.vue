@@ -4,9 +4,6 @@
       <img src="@/assets/img/logo_white.png" alt="logo图">
     </div>
     <p class="title">尤里奇科技</p>
-    <p class="address_tel_fax">
-      <span>Tel：888-888-888</span>
-    </p>
     <p class="email_wx">
       <span>邮箱：jobjoybot@gmail.com</span>
     </p>
